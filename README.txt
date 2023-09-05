@@ -26,5 +26,3 @@ Criando o segundo repositório (remoto para o local)
 #### add(num1, num2)
 
 Recebe dois números e retorna a sua soma.
-
-
